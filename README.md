@@ -4,7 +4,6 @@
 
 - 🔭 Trabalhando com Back-end
 - 🌱 Estudando .NET/API Rest
-- 😄 Pronouns: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/IsabelSleigman">
