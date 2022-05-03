@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Trabalhando com Back-end
-- 🌱 Estudando .NET/API Rest
+- 🌱 Estudando NodeJs/API Rest
 
 <div align="center">
   <a href="https://github.com/IsabelSleigman">
